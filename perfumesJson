@@ -1,0 +1,72 @@
+{
+	"Floral": {
+		"perfume1": {
+			"brand": "Tom Ford",
+			"name": "Velvet Orchid"
+		},
+		"perfume2": {
+			"brand": "Marc Jacobs",
+			"name": "Daisy"
+		}
+	},
+	"Citrus": {
+		"perfume1": {
+			"brand": "Giorgio Armani",
+			"name": "Acqua di Gioia"
+		},
+		"perfume2": {
+			"brand": "Bond",
+			"name": "No. 9"
+		}
+	},
+	"Gourmand": {
+		"perfume1": {
+			"brand": "Prada",
+			"name": "Candy"
+		},
+		"perfume2": {
+			"brand": "Marc Jacobs",
+			"name": "Daisy"
+		}
+	},
+	"Fruity": {
+		"perfume1": {
+			"brand": "Gucci",
+			"name": "Guilty Love Edition"
+		},
+		"perfume2": {
+			"brand": "Tom Ford",
+			"name": "Lost Cherry"
+		}
+	},
+	"Spicy": {
+		"perfume1": {
+			"brand": "Moschino",
+			"name": "Toy Boy"
+		},
+		"perfume2": {
+			"brand": "Le Labo",
+			"name": "Santal 33"
+		}
+	},
+	"Aquatic": {
+		"perfume1": {
+			"brand": "Creed",
+			"name": "Erolfa"
+		},
+		"perfume2": {
+			"brand": "Dior",
+			"name": "Dune"
+		}
+	},
+	"Woody": {
+		"perfume1": {
+			"brand": "Tom Ford",
+			"name": "Costa Azzura"
+		},
+		"perfume2": {
+			"brand": "Clive Christian",
+			"name": "C Woody Leather"
+		}
+	}
+}
